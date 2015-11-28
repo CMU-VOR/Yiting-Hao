@@ -5,7 +5,7 @@
 > * You can get only this application by downloading compressed file (SimpleDemo.zip) 
 
 ### Notice for incorporating Window speech recognition
-> * Need to add refence "System.Speech" into your appliction
+> * Need to add referennce "System.Speech" into your appliction
 > * Don't forget namespace "System.Speech.Recognition"
 
 ## Google Speech
