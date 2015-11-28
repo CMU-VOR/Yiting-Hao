@@ -5,7 +5,11 @@
 > * You can get only this application by downloading compressed file (SimpleDemo.zip) 
 
 ### Notice for incorporating Window speech recognition
+<<<<<<< HEAD
 > * Need to add reference "System.Speech" into your appliction
+=======
+> * Need to add referennce "System.Speech" into your appliction
+>>>>>>> 76fa5066bf9816ced6c5257ffa1c79c021001e25
 > * Don't forget namespace "System.Speech.Recognition"
 
 ### How to add reference in C# project
