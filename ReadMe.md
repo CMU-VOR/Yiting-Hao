@@ -1,4 +1,4 @@
-## SimpleDemo
+## SimpleDemo (Window Speech Recognition)
 ### Overview
 > * A simple voice recognition appliction using Window Speech Recognition
 > * Select one choice based on what users say
